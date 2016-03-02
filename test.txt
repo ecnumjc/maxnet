@@ -1,0 +1,5 @@
+Sunny Humid
+Rainy Humid
+Cloudy Happy
+Rainy Happy 
+Happy Dry

@@ -1,0 +1,82 @@
+Nf	Na	Nf-Na	土豪土豪520520	淼淼	false	《	x	《	x	则	m	则	m	Nf-x	Na-m	false	null	null	null	null	》	x	x-Nf	x-Na	artist	N_ab	N_ab-Nf	N_ab-Na	null	null	》	x	制片人	n	null	null	5	0	0	0	
+Na	Nf	Na-Nf	淼淼	土豪	true	artist	N_ab	制片人	n	《	x	520土豪	Nf	Na-N_ab	Nf-x	false	null	null	null	null	则	m	m-Na	m-Nf	《	x	x-Na	x-Nf	null	null	则	m	的	uj	表示	误解	35	0	8	0	
+Na	Nf	Na-Nf	淼淼	520土豪	true	artist	N_ab	制片人	n	》	x	520	Nf	Na-N_ab	Nf-x	false	null	null	null	null	则	m	m-Na	m-Nf	《	x	x-Na	x-Nf	null	null	则	m	土豪	Nf	表示	误解	37	1	8	0	
+Na	Nf	Na-Nf	淼淼	520	true	artist	N_ab	制片人	n	制片人	n	》	x	Na-N_ab	Nf-n	false	null	null	null	null	则	m	m-Na	m-Nf	》	x	x-Na	x-Nf	null	null	则	m	520土豪	Nf	表示	误解	39	2	8	0	
+Nf	Na	Nf-Na	土豪520	淼	false	《	x	null	null	：	x	则	m	Nf-x	Na-x	false	null	null	null	null	》	x	x-Nf	x-Na	表示	v	v-Nf	v-Na	null	null	制片人	n	artist	N_ab	表示	表示	124	11	21	0	
+Nf	Na	Nf-Na	土豪520	淼	false	《	x	null	null	：	x	则	m	Nf-x	Na-x	false	null	null	null	null	》	x	x-Nf	x-Na	表示	v	v-Nf	v-Na	null	null	制片人	n	artist	N_ab	表示	表示	124	11	21	0	
+Nf	Na	Nf-Na	土豪520	淼	false	《	x	null	null	：	x	则	m	Nf-x	Na-x	false	null	null	null	null	》	x	x-Nf	x-Na	表示	v	v-Nf	v-Na	null	null	制片人	n	artist	N_ab	表示	表示	124	11	21	0	
+Nf	Na	Nf-Na	土豪520	淼	false	《	x	null	null	：	x	则	m	Nf-x	Na-x	false	null	null	null	null	》	x	x-Nf	x-Na	表示	v	v-Nf	v-Na	null	null	制片人	n	artist	N_ab	表示	表示	124	11	21	0	
+Nf	Na	Nf-Na	土豪520	淼	false	《	x	null	null	：	x	则	m	Nf-x	Na-x	false	null	null	null	null	》	x	x-Nf	x-Na	表示	v	v-Nf	v-Na	null	null	制片人	n	artist	N_ab	表示	表示	124	11	21	0	
+Nf	Na	Nf-Na	土豪520	淼	false	《	x	null	null	：	x	则	m	Nf-x	Na-x	false	null	null	null	null	》	x	x-Nf	x-Na	表示	v	v-Nf	v-Na	null	null	制片人	n	artist	N_ab	表示	表示	124	11	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nab	Na	Nab-Na	artist	淼	false	制片人	n	》	x	：	x	则	m	Nab-n	Na-x	false	null	null	null	null	淼	Na	Na-Nab	Na-Na	表示	v	v-Nab	v-Na	null	null	则	m	artist	Nab	表示	表示	121	16	21	0	
+Nf	Nd	Nf-Nd	土豪520	2015年5月20	true	《	x	电影	n	日壕	n	迈	v	Nf-x	Nd-n	false	null	null	null	null	》	x	x-Nf	x-Nd	于	p	p-Nf	p-Nd	将	d	null	null	null	null	null	null	3	0	0	0	
+Nf	Na	Nf-Na	一万年以后	易立	false	《	x	：	x	　	x	　	x	Nf-x	Na-x	false	null	null	null	null	》	x	x-Nf	x-Na	：	x	x-Nf	x-Na	null	null	　	x	导演	v	导演	导演	5	0	1	0	
+Nf	Na	Nf-Na	一万年以后	李思儒	false	《	x	：	x	、	x	王翀	Na	Nf-x	Na-x	false	null	null	null	null	》	x	x-Nf	x-Na	：	x	x-Nf	x-Na	null	null	　	x	主演	n	导演	导演	10	1	1	0	
+Nf	Na	Nf-Na	一万年以后	王翀	false	《	x	：	x	、	x	周婷	Na	Nf-x	Na-x	false	null	null	null	null	》	x	x-Nf	x-Na	、	x	x-Nf	x-Na	null	null	　	x	李思儒	Na	导演	导演	12	2	1	0	
+Nf	Na	Nf-Na	一万年以后	周婷	false	《	x	：	x	、	x	王鲁	Na	Nf-x	Na-x	false	null	null	null	null	》	x	x-Nf	x-Na	、	x	x-Nf	x-Na	null	null	　	x	王翀	Na	导演	导演	14	3	1	0	
+Nf	Na	Nf-Na	一万年以后	王鲁	false	《	x	：	x	、	x	刘东红	Na	Nf-x	Na-x	false	null	null	null	null	》	x	x-Nf	x-Na	、	x	x-Nf	x-Na	null	null	　	x	周婷	Na	导演	导演	16	4	1	0	
+Nf	Na	Nf-Na	一万年以后	刘东红	false	《	x	：	x	　	x	　	x	Nf-x	Na-x	false	null	null	null	null	》	x	x-Nf	x-Na	、	x	x-Nf	x-Na	null	null	　	x	王鲁	Na	导演	导演	18	5	1	0	
+Nf	Nd	Nf-Nd	一万年以后	2015-03-27	true	《	x	：	x	　	x	　	x	Nf-x	Nd-x	false	null	null	null	null	》	x	x-Nf	x-Nd	：	x	x-Nf	x-Nd	null	null	　	x	上映	v	导演	上映	41	9	2	0	
+Nf	Nl	Nf-Nl	一万年以后	中国大陆	true	《	x	：	x	　	x	　	x	Nf-x	Nl-x	false	null	null	null	null	》	x	x-Nf	x-Nl	：	x	x-Nf	x-Nl	null	null	　	x	地区	n	导演	导演	30	8	1	0	
+Nf	Nt	Nf-Nt	一万年以后	动作	true	《	x	：	x	、	x	奇幻	Nt	Nf-x	Nt-x	false	null	null	null	null	》	x	x-Nf	x-Nt	：	x	x-Nf	x-Nt	null	null	　	x	类型	n	导演	导演	23	6	1	0	
+Nf	Nt	Nf-Nt	一万年以后	奇幻	true	《	x	：	x	　	x	　	x	Nf-x	Nt-x	false	null	null	null	null	》	x	x-Nf	x-Nt	、	x	x-Nf	x-Nt	null	null	　	x	动作	Nt	导演	导演	25	7	1	0	
+Na	Nf	Na-Nf	齐溪	公路美人	true	”	x	情侣	n	》	x	将	d	Na-x	Nf-x	false	null	null	null	null	[	x	x-Na	x-Nf	《	x	x-Na	x-Nf	null	null	微	a	的	uj	null	null	13	3	0	0	
+Na	Nf	Na-Nf	张念骅	公路美人	true	、	x	]	x	》	x	将	d	Na-x	Nf-x	false	null	null	null	null	以及	c	c-Na	c-Nf	《	x	x-Na	x-Nf	null	null	宋宁	Na	的	uj	null	null	7	2	0	0	
+Na	Nf	Na-Nf	宋宁	公路美人	true	以及	c	张念骅	Na	》	x	将	d	Na-c	Nf-x	false	null	null	null	null	、	x	x-Na	x-Nf	《	x	x-Na	x-Nf	null	null	尕让卓玛	Na	的	uj	null	null	5	1	0	0	
+Na	Nf	Na-Nf	尕让卓玛	公路美人	true	、	x	宋宁	Na	》	x	将	d	Na-x	Nf-x	false	null	null	null	null	领衔主演	n	n-Na	n-Nf	《	x	x-Na	x-Nf	的	uj	null	null	null	null	null	null	3	0	0	0	
+Nf	Nl	Nf-Nl	公路美人	全国	true	《	x	的	uj	公映	v	null	null	Nf-x	Nl-v	false	null	null	null	null	》	x	x-Nf	x-Nl	日	m	m-Nf	m-Nl	null	null	将	d	3	m	null	null	7	0	0	0	
+Na	Nf	Na-Nf	齐溪	浮城谜事	true	null	null	null	null	》	x	中	f	null	Nf-x	false	null	null	null	null	颠覆	v	v-Na	v-Nf	《	x	x-Na	x-Nf	null	null	文艺	n	的	uj	颠覆	演绎	25	2	3	0	
+Na	Nf	Na-Nf	齐溪	浮城谜事	true	null	null	null	null	》	x	中	f	null	Nf-x	false	null	null	null	null	颠覆	v	v-Na	v-Nf	《	x	x-Na	x-Nf	null	null	文艺	n	的	uj	颠覆	演绎	25	2	3	0	
+Na	Nf	Na-Nf	娄烨	浮城谜事	true	在	p	曾经	d	》	x	中	f	Na-p	Nf-x	false	null	null	null	null	[	x	x-Na	x-Nf	《	x	x-Na	x-Nf	null	null	微	a	的	uj	null	null	6	0	0	0	
+Na	Nf	Na-Nf	宋慧乔	我是女王	true	由	p	"	x	》	x	将	d	Na-p	Nf-x	false	null	null	null	null	领衔主演	n	n-Na	n-Nf	《	x	x-Na	x-Nf	null	null	的	uj	电影	Nt	null	null	4	1	0	0	
+Nf	Nd	Nf-Nd	我是女王	4月16日	true	《	x	电影	Nt	上映	v	null	null	Nf-x	Nd-v	false	null	null	null	null	》	x	x-Nf	x-Nd	于	p	p-Nf	p-Nd	将	d	null	null	null	null	null	null	3	0	0	0	
+Nt	Nf	Nt-Nf	电影	我是女王	false	的	uj	领衔主演	n	》	x	将	d	Nt-uj	Nf-x	false	《	x	Nt-x	Nf-x	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	1	0	0	0	
+Nt	Nf	Nt-Nf	片方	我是女王	false	null	null	null	null	》	x	联合	v	null	Nf-x	false	null	null	null	null	公布	v	v-Nt	v-Nf	《	x	x-Nt	x-Nf	了	ul	null	null	null	null	公布	公布	3	0	1	0	
+Na	Nf	Na-Nf	饶雪漫	左耳	true	根据	p	"	x	》	x	定档	b	Na-p	Nf-x	false	null	null	null	null	经典	n	n-Na	n-Nf	《	x	x-Na	x-Nf	null	null	青春	ns	电影	n	改编	执导	15	1	2	0	
+Na	Nf	Na-Nf	苏有朋	左耳	true	由	p	、	x	》	x	定档	b	Na-p	Nf-x	false	null	null	null	null	[	x	x-Na	x-Nf	《	x	x-Na	x-Nf	null	null	微	a	电影	n	执导	执导	8	0	1	0	
+Nf	Nd	Nf-Nd	咱们结婚	4月2日	true	《	x	电影	n	全国	Nl	温暖	an	Nf-x	Nd-Nl	false	null	null	null	null	吧	y	y-Nf	y-Nd	于	p	p-Nf	p-Nd	null	null	》	x	将	d	null	null	4	0	0	0	
+Nf	Nl	Nf-Nl	咱们结婚	全国	true	《	x	电影	n	温暖	an	上映	v	Nf-x	Nl-an	false	null	null	null	null	吧	y	y-Nf	y-Nl	4月2日	Nd	Nd-Nf	Nd-Nl	null	null	》	x	于	p	null	null	5	1	0	0	
+Na	Nf	Na-Nf	詹妮弗-劳伦斯	天启	true	到	v	考虑	v	》	x	之后	f	Na-v	Nf-x	false	null	null	null	null	之前	f	f-Na	f-Nf	《	x	x-Na	x-Nf	自爆	a	null	null	null	null	null	null	3	0	0	0	
+Na	Nf	Na-Nf	詹妮弗-劳伦斯	X战警	true	到	v	考虑	v	》	x	系列	q	Na-v	Nf-x	false	null	null	null	null	之前	f	f-Na	f-Nf	《	x	x-Na	x-Nf	null	null	自爆	a	退出	v	退出	退出	8	1	1	0	
+Na	Nab	Na-Nab	杰克曼	artist	true	-	x	称休	v	)	x	饰演	n	Na-x	Nab-x	false	null	null	null	null	(	x	x-Na	x-Nab	(	x	x-Na	x-Nab	null	null	artist	Nab	哈莉-贝瑞	Na	null	null	10	2	0	0	
+Na	Nab	Na-Nab	杰克曼	artist	true	-	x	称休	v	)	x	饰演	n	Na-x	Nab-x	false	null	null	null	null	(	x	x-Na	x-Nab	(	x	x-Na	x-Nab	null	null	artist	Nab	哈莉-贝瑞	Na	null	null	10	2	0	0	
+Na	Nab	Na-Nab	查宁-塔图姆	artist	true	还有	v	null	null	)	x	饰演	n	Na-v	Nab-x	false	(	x	Na-x	Nab-x	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	1	0	0	0	
+Nf	Nd	Nf-Nd	X战警：天启	2016年10月7日	true	《	x	null	null	上映	v	null	null	Nf-x	Nd-v	false	null	null	null	null	》	x	x-Nf	x-Nd	在	p	p-Nf	p-Nd	将	d	null	null	null	null	null	null	3	0	0	0	
+Nf	Na	Nf-Na	爱我就陪陪我看电影	魏晨	false	《	x	的	uj	的	uj	迷影	n	Nf-x	Na-uj	false	null	null	null	null	》	x	x-Nf	x-Na	了	ul	ul-Nf	ul-Na	null	null	也	d	表达	v	表达	表达	4	0	1	0	
+Nf	Na	Nf-Na	爱我就陪我看电影	魏晨	false	《	x	null	null	对于	p	电影	n	Nf-x	Na-p	false	null	null	null	null	》	x	x-Nf	x-Na	了	ul	ul-Nf	ul-Na	null	null	也	d	表达	v	表达	表达	4	0	1	0	
+Nf	Na	Nf-Na	爱我就陪我看电影	魏晨	false	《	x	引领	v	音乐	n	风	n	Nf-x	Na-n	false	null	null	null	null	》	x	x-Nf	x-Na	的	uj	uj-Nf	uj-Na	时代	n	null	null	null	null	null	null	3	0	0	0	
+Nt	Nf	Nt-Nf	爱情故事	爱我就陪我看电影	false	感人	n	最	f	》	x	齐聚	nr	Nt-n	Nf-x	false	null	null	null	null	　	x	x-Nt	x-Nf	《	x	x-Nt	x-Nf	　	x	null	null	null	null	null	null	3	0	0	0	
+Na	Nab	Na-Nab	王宗泽	artist	true	鲜肉	n	小	n	张雪迎	Na	演绎	v	Na-n	Nab-Na	false	、	x	Na-x	Nab-x	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	1	0	0	0	
+Nab	Na	Nab-Na	artist	张雪迎	false	、	x	王宗泽	Na	演绎	v	两代	m	Nab-x	Na-v	true	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	0	0	0	0	
+Nab	Na	Nab-Na	artist	张慧雯	false	“	x	null	null	从	p	汇集	v	Nab-x	Na-p	false	”	x	Nab-x	Na-x	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	null	1	0	0	0	
+Na	Nf	Na-Nf	张慧雯	栀子花开	true	虽然	c	null	null	》	x	未能	v	Na-c	Nf-x	false	null	null	null	null	因	p	p-Na	p-Nf	《	x	x-Na	x-Nf	null	null	赶	v	拍电影	n	赶	赶	4	0	1	0	
+Nf	Nl	Nf-Nl	栀子花开	澳门	true	《	x	拍电影	n	领取	v	该	r	Nf-x	Nl-v	false	null	null	null	null	》	x	x-Nf	x-Nl	来到	v	v-Nf	v-Nl	未能	v	null	null	null	null	未能	来到	3	0	2	0	
